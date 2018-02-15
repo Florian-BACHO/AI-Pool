@@ -20,5 +20,11 @@ Sujets réalisés par:
 - Les corrections de chaque jour (précédent) seront distribuées sur ce même repo.
 
 ## Liens utiles:
-[Google](https://www.google.com)
-[Optimisation (mathématiques) - Wikipedia](https://fr.wikipedia.org/wiki/Optimisation_(math%C3%A9matiques))
+- [Google](https://www.google.com)
+- [Optimisation (mathématiques) - Wikipedia](https://fr.wikipedia.org/wiki/Optimisation_(math%C3%A9matiques))
+- [Réseau de neurones artificiels - Wikipedia](https://fr.wikipedia.org/wiki/R%C3%A9seau_de_neurones_artificiels)
+- [Règle de Hebb - Wikipedia](https://fr.wikipedia.org/wiki/R%C3%A8gle_de_Hebb)
+- [Dérivée - Wikipedia](https://fr.wikipedia.org/wiki/D%C3%A9riv%C3%A9e)
+- [Dérivée partielle - Wikipedia](https://fr.wikipedia.org/wiki/D%C3%A9riv%C3%A9e_partielle)
+- [Théorème de dérivation des fonctions composées - Wikipedia](https://fr.wikipedia.org/wiki/Th%C3%A9or%C3%A8me_de_d%C3%A9rivation_des_fonctions_compos%C3%A9es)
+- [Gradient - Wikipedia](https://fr.wikipedia.org/wiki/Gradient)
