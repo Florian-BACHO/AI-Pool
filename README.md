@@ -1,5 +1,5 @@
 # IA-Pool
-Piscine Intelligence Artificielle / Machine Learning à Epitech Paris, organisé par P.O.C.
+Piscine Intelligence Artificielle / Apprentissage Automatique à Epitech Paris, organisé par P.O.C.
 
 Sujets réalisés par:
 - Florian Bacho;
