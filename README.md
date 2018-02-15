@@ -16,6 +16,7 @@ Sujets réalisés par:
 - Jour 07: Rattrapages
 
 ## Details
+- Langage: Python
 - Vous trouverez les sujets du jour sur ce repo.
 - Les corrections de chaque jour (précédent) seront distribuées sur ce même repo.
 
