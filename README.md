@@ -18,3 +18,7 @@ Sujets réalisés par:
 ## Details
 - Vous trouverez les sujets du jour sur ce repo.
 - Les corrections de chaque jour (précédent) seront distribuées sur ce même repo.
+
+## Liens utiles:
+[Google](https://www.google.com)
+[Optimisation (mathématiques) - Wikipedia](https://fr.wikipedia.org/wiki/Optimisation_(math%C3%A9matiques))
