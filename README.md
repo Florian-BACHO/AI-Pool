@@ -22,6 +22,7 @@ Sujets réalisés par:
 
 ## Liens utiles:
 - [Google](https://www.google.com)
+- [Hyperplan - Wikipedia](https://fr.wikipedia.org/wiki/Hyperplan)
 - [Optimisation (mathématiques) - Wikipedia](https://fr.wikipedia.org/wiki/Optimisation_(math%C3%A9matiques))
 - [Réseau de neurones artificiels - Wikipedia](https://fr.wikipedia.org/wiki/R%C3%A9seau_de_neurones_artificiels)
 - [Règle de Hebb - Wikipedia](https://fr.wikipedia.org/wiki/R%C3%A8gle_de_Hebb)
