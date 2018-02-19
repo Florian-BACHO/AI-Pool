@@ -3,8 +3,7 @@ Piscine Intelligence Artificielle / Apprentissage Automatique à Epitech Paris, 
 
 Sujets réalisés par:
 - Florian Bacho;
-- Dorian Voravong;
-- Benjamin Girard.
+- Dorian Voravong
 
 ## Sommaire
 - Jour 01: Dataset loading et introduction à MatPlotLib
@@ -13,7 +12,6 @@ Sujets réalisés par:
 - Jour 04: Fonction de coût, dérivées, dérivées partielles et dérivées en chaîne
 - Jour 05: Descente de gradient sur un neurone
 - Jour 06: Rétropropagation du gradient
-- Jour 07: Rattrapages
 
 ## Details
 - Langage: Python
