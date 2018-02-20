@@ -9,7 +9,7 @@ Sujets réalisés par:
 ## Sommaire
 - Jour 01: Dataset loading et introduction à MatPlotLib
 - Jour 02: Première intuition des hyperplans: les k plus proches voisins
-- Jour 03: Création d’un neurone et d’un réseau de neurone
+- Jour 03: Création d’un neurone et d’un réseau de neurones
 - Jour 04: Fonction de coût, dérivées, dérivées partielles et dérivées en chaîne
 - Jour 05: Descente de gradient sur un neurone
 - Jour 06: Rétropropagation du gradient
