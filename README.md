@@ -4,6 +4,7 @@ Piscine Intelligence Artificielle / Apprentissage Automatique à Epitech Paris, 
 Sujets réalisés par:
 - Florian Bacho;
 - Dorian Voravong
+- Benjamin Girard
 
 ## Sommaire
 - Jour 01: Dataset loading et introduction à MatPlotLib
