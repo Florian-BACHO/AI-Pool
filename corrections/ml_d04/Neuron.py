@@ -26,6 +26,12 @@ class Neuron:
         self.out = logistic(sum)
 
     # Calculate the loss average on a dataset
+    # The loss function described in the subject is for a neural network !
+    # Here, you have only one neuron, so you have only one possible output.
+    # In others words, you have a "neural network" composed of a single neuron.
+    # It will be usefull when you will learn how to apply gradient descent on a single neuron.
+    # In practice, you will never have to calculate the loss of a single neurone but the loss
+    # an entire neural network.
     def calcLoss(self, dataset):
         loss = 0.
         for ex in dataset.exemples:
