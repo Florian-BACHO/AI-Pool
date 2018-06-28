@@ -2,9 +2,13 @@ from Neuron import *
 
 class NeuralNetwork:
     def __init__(self, layerDescriptor):
-        self.layers = [[Neuron(0) for i in range(layerDescriptor[0])]]
-        for i in range(1, len(layerDescriptor)):
-            self.layers.append([Neuron(layerDescriptor[i - 1]) for j in range(layerDescriptor[i])])
+        self.layers = []
+        for i, it in enumerate(layerDescriptor):
+            layer = self.createLayer(layerDescriptor[i], 0 if i == 0 else layerDescriptor[i - 1])
+            self.layers.append(layer)
+
+    def createLayer(self, nbNeuron, nbLast):
+        return [Neuron(nbLast) for i in range(nbNeuron)]
 
     def activate(self, entries):
         for i in range(len(entries)):
