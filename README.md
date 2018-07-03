@@ -1,4 +1,4 @@
-# IA-Pool
+# AI-Pool
 Piscine Intelligence Artificielle / Apprentissage Automatique à Epitech Paris, organisé par PoC
 
 Sujets réalisés par:
